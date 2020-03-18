@@ -1,0 +1,1 @@
+# Currently this will lie vacant and soon we will add the details about the licenses that we might need in the future.
