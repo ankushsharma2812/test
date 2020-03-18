@@ -10,3 +10,6 @@ After this we will remove file from the staging are
 	git reset HEAD filename
  and here  though the file will be removed from the staging area but the changes that were made to the file will not be undone
 This can be verified by opening the file
+
+
+Let me add a comment and then i'll have to remove the comment from this. So that this line will not be visible to me after sometime
