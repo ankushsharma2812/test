@@ -2,3 +2,11 @@
 
 For now nothing has been done in the  project and today is 2020-03-18
 A Small change was made to verify how git tracks the changes made to the files and then maintains the repository
+
+Here we are going to make small changes to the file and the we will add the modified file to the Staging area , 
+
+	git add filename
+After this we will remove file from the staging are
+	git reset HEAD filename
+ and here  though the file will be removed from the staging area but the changes that were made to the file will not be undone
+This can be verified by opening the file
