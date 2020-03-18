@@ -1,0 +1,5 @@
+hello this file is added just to be renamed and we are going to rename the file through the git command and not through the operating system. This method has some additional advantages over the renaming the file through the operating system
+
+
+Commands used:- 
+Git mv rename.txt new_name.txt
