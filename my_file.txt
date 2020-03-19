@@ -1,1 +1,3 @@
 hello user this has to be excluded from the git repository
+
+after commit adding some random lines to check the output in git diff command
