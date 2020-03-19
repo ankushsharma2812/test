@@ -1,0 +1,1 @@
+hello user this has to be excluded from the git repository
