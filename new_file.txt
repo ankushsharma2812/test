@@ -1,0 +1,2 @@
+hello user we have created this file to make come changes and the commit those changes in the new_branch and then we will move to the master branch and will not merge both the branches .
+Finally we will make changes in the file and the commit this in the master branch. Then conflicts will arise and we are going to resolve those conflicts
