@@ -3,3 +3,5 @@ hello user this has to be excluded from the git repository
 after commit adding some random lines to check the output in git diff command
 
 adding some changes into the file so , this file is currently in the new_branch of the git repository
+
+marking certain changes to see stashing in the git 
