@@ -1,3 +1,3 @@
 this file has been created to test stashing, a file has been modified and put to stashing and this file was created later and not we are going to commit this one first and then later the other file will be added to the git repository
 
-committing it again
+committing it again and saving the file
